@@ -1,2 +1,2 @@
-//require('./app.css');
-require('./app.js');
+import css from './app.css';
+import app from './app.js';
